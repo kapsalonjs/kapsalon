@@ -1,0 +1,20 @@
+{
+  "name": "kapsalon",
+  "version": "0.0.0",
+  "description": "npm install kapsalon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapsalonjs/kapsalon.git"
+  },
+  "keywords": [],
+  "author": "kapsalonjs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kapsalonjs/kapsalon/issues"
+  },
+  "homepage": "https://github.com/kapsalonjs/kapsalon#readme"
+}
