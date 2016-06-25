@@ -1,0 +1,2 @@
+# kapsalon
+npm install kapsalon
